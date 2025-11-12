@@ -1,0 +1,5 @@
+/* Add in index.css or global css */
+.modal-backdrop,
+.modal {
+  position: fixed;
+}
